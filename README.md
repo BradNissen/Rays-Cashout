@@ -1,11 +1,12 @@
 # Rays-Cashout
 
 At the time I created this program, there was no program in place to monitor the sales of individuals and allocate tips based on
-individual performance. Every night servers had to do the math and it took about 5-10 minutes per person each day. I developed a java 
-program which would track individual sales and allocates tips based on a percentage of that individual's sales. My program enabled my
-employer to be more efficient in the management of the employees.
+individual performance. Every night servers at Rays Café had to do math for each tip out. (bussers, expeditors, hosts, bar tenders,
+visa, mastercard, amex, discover, etc..) and it took about 5-10 minutes per person each day. I developed a java program which would 
+track individual sales and allocates tips based on a percentage of that individual's sales. My program enabled my employer to be more efficient in the management of the employees and it would be more efficient pay calculation.
 
-I made this program quickly, and without any collaboration. So I'm sorry for the inproper naming convention. 
+I made this program quickly, and without any collaboration. So I'm sorry for the improper naming conventions. 
+
 
 
 This is the splash screen displayed while the prgram loads
