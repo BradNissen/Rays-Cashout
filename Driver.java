@@ -4,6 +4,7 @@
  * Community College.
  * Enjoy!
  */
+
 package Cashout;
 
 import java.text.SimpleDateFormat;

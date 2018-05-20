@@ -5,6 +5,7 @@ package Cashout;
  * 
  * @author BradNissen
  */
+
 public class TippingPercent
 {
     // Variables Are Private

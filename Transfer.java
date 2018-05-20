@@ -1,7 +1,6 @@
 /*
-   TRansfter. class
+   Transfter.class
 will be able to deduct tax, and tip name whuch is user entered
-
 */
 package Cashout;
 
