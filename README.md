@@ -4,6 +4,10 @@ Rays cashout is a desktop application designed to save time, avoid errors. Every
 
 Building this was a great learning experience because I got to use the GUI builder in Netbeans IDE. I had very little experiece prior so this was a fun way to learn. 
 
+Checkout Rays, it's a great restaunt to work for and and they have great food and a killer view!
+Make a reservation: https://www.rays.com/
+
+
 This is the splash screen displayed while the prgram loads
 <img width="500" alt="splashscreen" src="https://user-images.githubusercontent.com/25112069/39440379-93d8e37e-4c5f-11e8-8cf6-43e3fdaf9c43.png">
 
